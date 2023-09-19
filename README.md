@@ -1,4 +1,4 @@
-### <div align="center">Hi, I'm Laura 👨‍💻 I am training as a fullstack web developer.</div>  
+### <div align="center">Hi, I'm Laura 👨‍💻 I am training as a fullstack web developer in a bootcamp.</div>  
   
 
 - 🔭 I’m currently working with React and C#  
